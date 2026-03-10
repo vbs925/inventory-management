@@ -78,6 +78,7 @@ Visit `http://localhost:5173` in your browser.
 ## 🔌 API Endpoints
 
 | Method | Endpoint | Description |
+<img width="1440" height="900" alt="Screenshot 2026-03-10 at 1 08 19 PM" src="https://github.com/user-attachments/assets/184899f4-45d0-4076-9be6-1e5381944186" />
 |--------|----------|-------------|
 | GET | `/api/inventory` | Get all inventory items |
 | POST | `/api/inventory` | Add new item |
